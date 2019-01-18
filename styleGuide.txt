@@ -1,0 +1,16 @@
+
+Style guide:
+
+	white body background
+	
+	red container background
+	
+	Cursive Pacifico font for all text except search placeholder
+	
+	Black font
+	
+	5px distance from and between buttons and logos touching and edge of containers
+	
+	text box adaptive to change of screen width
+	
+	
